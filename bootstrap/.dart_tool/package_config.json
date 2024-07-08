@@ -1,0 +1,21 @@
+{
+  "configVersion": 2,
+  "packages": [
+    {
+      "name": "path",
+      "rootUri": "file:///home/jason/.pub-cache/hosted/pub.dev/path-1.9.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
+    },
+    {
+      "name": "shout_bootstrap",
+      "rootUri": "../",
+      "packageUri": "lib/",
+      "languageVersion": "3.4"
+    }
+  ],
+  "generated": "2024-07-07T23:18:54.474361Z",
+  "generator": "pub",
+  "generatorVersion": "3.4.4",
+  "pubCache": "file:///home/jason/.pub-cache"
+}
