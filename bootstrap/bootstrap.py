@@ -28,7 +28,7 @@ def main():
                 if question in ['n', 'N', 'no', 'No', 'NO']:
                     continue
             os.remove(blk[0])
-        os.makedirs(os.path.dirname(blk[0]), exist_ok = True)
+        os.makedirs(os.path.dirname(blk[0]) or './', exist_ok = True)
         with open(blk[0], 'w+') as f:
             for ln in blk[2]: f.write(ln + '\n')
 
