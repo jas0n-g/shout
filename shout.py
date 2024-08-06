@@ -1,6 +1,9 @@
 #!/usr/bin/env python3
 
 
+# this is a simple implementation, i will expand on this later on
+
+
 import os
 import re
 import sys
